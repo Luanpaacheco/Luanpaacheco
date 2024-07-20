@@ -1,7 +1,11 @@
-## Olá! Me chamo Luan Pacheco
-
-Sou um desenvolvedor Java de 19 anos, atualmente estudante na PUCRS. Tenho experiência em SQL, essencial para o desenvolvimento de aplicações backend. Além disso, possuo conhecimentos em JavaScript, HTML e CSS, o que me permite colaborar em projetos de front-end. Recentemente, tenho me dedicado ao estudo de Python com foco em ciência de dados e automação, buscando expandir meu conjunto de habilidades para atuar em áreas promissoras da tecnologia.
+## Hello! My name is Luan Pacheco Lima
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanpaacheco&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+
+I am a 19-year-old Java developer currently studying at PUCRS. I have experience in SQL, which is essential for backend application development. Additionally, I have knowledge of JavaScript, HTML, and CSS, enabling me to contribute to frontend projects. Recently, I have been dedicated to studying Python with a focus on data science and automation, aiming to expand my skill set to work in promising areas of technology.
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanpaacheco&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
   
