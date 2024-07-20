@@ -12,5 +12,8 @@ I am a 19-year-old Java developer currently studying at PUCRS. I have experience
 My contacts:
 
 📧 Email: luanpachecolima00@gmail.com
-🔗 LinkedIn: Luan Pacheco Lima
+
+🔗 LinkedIn: www.linkedin.com/in/luan-pacheco-lima
+
+
   
