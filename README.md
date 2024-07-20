@@ -8,4 +8,9 @@ I am a 19-year-old Java developer currently studying at PUCRS. I have experience
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanpaacheco&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+
+My contacts:
+
+📧 Email: luanpachecolima00@gmail.com
+🔗 LinkedIn: Luan Pacheco Lima
   
