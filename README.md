@@ -1,11 +1,11 @@
 <p align="center">
-  <h1 align="center">
-    Hello!!
+  <h1 >
+    Hi! I´m Luan Pacheco
   </h1>
 </p>
 
-
-<p align="center">
+<p >About me:</p>
+<p align="left">
   <a>
     I am a 19-year-old Java developer currently studying at PUCRS. I have experience in SQL, which is essential for backend application development. Additionally, I have knowledge of JavaScript, HTML, and CSS, enabling me to contribute to frontend projects. Recently, I have been dedicated to studying Python with a focus on data science and automation, aiming to expand my skill set to work in promising areas of technology.
   </a>
@@ -36,10 +36,11 @@
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
   </a>
 </p>
-
-<a href="https://www.instagram.com/luanpaacheco" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/luan-pacheco-lima" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://x.com/Luanlimapacheco" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<p align = "right" >
+  <a  href="https://www.instagram.com/luanpaacheco" target="_blank"><img align="right" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a href="https://www.linkedin.com/in/luan-pacheco-lima" target="_blank"><img align="right" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a href="https://x.com/Luanlimapacheco" target="_blank"><img align="right" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+</p>
 
   
   
