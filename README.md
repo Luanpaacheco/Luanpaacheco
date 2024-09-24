@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1150&height=50&lines=Hello%2C+my+name+is+Luan!+Welcome+to+my+Profile!" align="middle" alt="Hello, I'm Luan! Welcome to my GitHub! animated typed out"> <img  src="assests/borderseperator.gif">
-## About Me
+## 🙋🏻‍♂️​ About Me
 
 <p> </p>
 
@@ -22,8 +22,8 @@
 </div>
 
 
-
-
+## 🧠 ​Know-How:
+<p> </p>
 
 
 <p align="center">
