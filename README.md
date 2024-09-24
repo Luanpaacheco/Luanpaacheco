@@ -5,18 +5,21 @@
 
 
 
-👋 I am a 19-year-old software engineering currently studying at PUCRS.
+🧑‍💻​ I am a 19-year-old software engineering currently studying at PUCRS.
 <p> </p>
 
-💡 My journey in programming began during the pandemic, when I was 16, and I discovered my passion for the field. Beyond the world of programming, I've always had diverse interests, such as soccer, theater, and video games.
+🤸​ My journey in programming began during the pandemic, when I was 16, and I discovered my passion for the field. Beyond the world of programming, I've always had diverse interests, such as soccer, theater, and video games.
 
 🎯 My goals are to improve my skills in practical project development and to gain experience in various areas within programming.
 
 🌱 Currently, I am studying Python and data science out of interest and curiosity. Meanwhile, in my university course, I am enhancing my knowledge in back-end development with Node.js and MongoDB, as well as in front-end development with HTML, CSS, JavaScript, and a bit of React
 
 ## 🌐 Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white)](luanpachecolima00@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/luan-pacheco-lima/)
 
+<div align="left"> 
+  <a href = "mailto:luanpachecolima00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-pacheco-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
@@ -30,12 +33,13 @@
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title = "react"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title = "mongoDb"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title = "node"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title = "react"/></code>
+  
 
           
           
