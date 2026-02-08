@@ -5,7 +5,7 @@
 
 
 
-🧑‍💻​ I am a 19-year-old software engineering currently studying at PUCRS.
+🧑‍💻​ I am a 21-year-old software engineering currently studying at PUCRS.
 <p> </p>
 
 🤸​ My journey in programming began during the pandemic, when I was 16, and I discovered my passion for the field. Beyond the world of programming, I've always had diverse interests, such as soccer, theater, and video games.
